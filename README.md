@@ -1,4 +1,4 @@
-I'm **Steph**, a Hubber and a third-generation IT professional. I'm a software engineer on [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@latest/admin/overview/about-github-enterprise-server), the self-hosted version of GitHub.
+I'm **Stephanie**, a Hubber and a third-generation IT professional. I'm a software engineer on [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@latest/admin/overview/about-github-enterprise-server), the self-hosted version of GitHub.
 
 Quick Bio:
 
